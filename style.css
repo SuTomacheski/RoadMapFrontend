@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 21cm;
+    height: 24cm;
+    margin: auto; /* Centraliza na tela */
+    padding: 4rem;
+    border: 2px solid #000; /* Borda preta */
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* sombra opcional */
+    font-family: Calibri, Arial, sans-serif;
+    }
+
+.linha {
+  width: 80%;            /* Define a largura (ex: metade da tela) */
+  height: 2px;           /* Espessura da linha */
+  background-color: #000; /* Cor da linha */
+  border: none;          /* Remove a borda padrão do <hr> */
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+section section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+h2 {
+  color: #34a853;
+  font-size: 1rem;
+}
+
+h3 {
+  padding: 0.1rem;
+  color: #1a73e8;
+  font-size: 1.1rem;
+}
+
+ul {
+    margin-left: 1.5rem;
+}
+
+ul li{
+    padding: 0.2rem;
+}
+
+footer {
+    padding: 2rem;
+    text-align: center;
+}
