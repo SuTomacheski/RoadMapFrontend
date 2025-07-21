@@ -1,7 +1,9 @@
 # README
 https://roadmap.sh/projects/single-page-cv
-# The Result
+# URL do projeto
+# URL do projeto
 https://suTomacheski.github.io/RoadMapFrontend/Curriculo/
+
 
 ![image](https://github.com/SuTomacheski/RoadMapFrontend/blob/main/Curriculum%20Vitae/curriculo.png)
 
